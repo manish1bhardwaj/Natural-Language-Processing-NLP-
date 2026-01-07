@@ -1,0 +1,62 @@
+text,label
+"Why do Java developers wear glasses? Because they can’t C#.",1
+"I told my computer I needed a break… it froze.",1
+"Debugging is like being the detective in a crime movie where you are also the murderer.",1
+"Why did the neural network go to therapy? Too many unresolved layers.",1
+"My data went on a date… now it’s an outlier.",1
+"Why did the variable break up with the constant? It needed some change.",1
+"I told my boss I made a machine that turns stupidity into money… he said, 'Great, call it a meeting.'",1
+"Parallel lines have so much in common. It’s a shame they’ll never meet.",1
+"I told my girlfriend she drew her eyebrows too high — she looked surprised.",1
+"Why don’t skeletons fight each other? They don’t have the guts.",1
+"I asked Siri why I’m single — she opened the front camera.",1
+"Why do programmers like dark mode? Because light attracts bugs.",1
+"My Wi-Fi went down for five minutes, so I had to talk to my family. They seem nice.",1
+"Why did the math book look sad? Too many problems.",1
+"Why don’t bachelors like Git? They’re afraid of commits.",1
+"Why did the chicken join the band? It had drumsticks.",1
+"Why did the PowerPoint cross the road? To get to the other slide.",1
+"I made a pencil with two erasers — it was pointless.",1
+"Why do statisticians love cats? They always land on their mean.",1
+"I told my laptop a joke about RAM… it still hasn’t processed it.",1
+"Why did the scarecrow win an award? Because he was outstanding in his field.",1
+"Why don’t robots panic? Because they have nerves of steel.",1
+"I asked my AI to tell me a joke — it started training for three hours.",1
+"Why was the computer cold? It left its Windows open.",1
+"Why did the AI dump its partner? Low correlation.",1
+"Why do JavaScript developers hate the ocean? It has too many callbacks.",1
+"Why was the calendar popular? It had a lot of dates.",1
+"Why did the student eat his homework? The teacher said it was a piece of cake.",1
+"Why can’t your nose be twelve inches long? Because then it’d be a foot.",1
+"My roommate thinks onions are the only food that makes you cry, so I threw a coconut at him.",1
+"Meeting is scheduled at 10 AM in Conference Room B.",0
+"The report should be submitted before Friday evening.",0
+"The seminar will cover recent trends in data analytics.",0
+"Please check your email for the updated assignment file.",0
+"All students must complete their registration by tomorrow.",0
+"The cafeteria will remain closed for maintenance today.",0
+"Your order has been shipped and will arrive by Monday.",0
+"The weather forecast predicts light rain in the evening.",0
+"The library will reopen at 9 AM sharp.",0
+"Meeting minutes will be shared by the team lead.",0
+"The results of the internal exam are now available online.",0
+"The bus will depart from the main gate at 8:30 AM.",0
+"The attendance portal will close after midnight.",0
+"Faculty meeting has been postponed to next Wednesday.",0
+"Project submissions are due next week.",0
+"Remember to bring your ID card for the lab session.",0
+"Students are advised to maintain discipline in class.",0
+"The course materials can be downloaded from the LMS.",0
+"New parking rules will be implemented from Monday.",0
+"The session will begin with an introduction by the coordinator.",0
+"Guest lecture on AI ethics will start at 2 PM.",0
+"The Wi-Fi password has been updated for the lab network.",0
+"All participants must fill out the feedback form.",0
+"The exam schedule will be uploaded by evening.",0
+"The library fine can be paid online through the portal.",0
+"The lab computers are undergoing software updates.",0
+"Next week’s topic: Natural Language Processing basics.",0
+"Please turn off lights before leaving the classroom.",0
+"Deadline for the poster submission is extended by two days.",0
+"Placement cell will organize a workshop on interview skills.",0
+"The AI club will conduct a coding challenge tomorrow.",0
